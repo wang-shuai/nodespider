@@ -1,0 +1,23 @@
+{
+  "name": "nodespider",
+  "version": "1.0.0",
+  "description": "spider made by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wang-shuai/nodespider.git"
+  },
+  "keywords": [
+    "spider",
+    "nodejs"
+  ],
+  "author": "wangshuai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang-shuai/nodespider/issues"
+  },
+  "homepage": "https://github.com/wang-shuai/nodespider#readme"
+}
