@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wang-shuai/nodespider/issues"
   },
-  "homepage": "https://github.com/wang-shuai/nodespider#readme"
+  "homepage": "https://github.com/wang-shuai/nodespider#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
